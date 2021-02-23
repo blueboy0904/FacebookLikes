@@ -1,0 +1,13 @@
+D:\Coding Work\FacebookLikes\FacebookLikes\bin\Debug\netcoreapp3.1\FacebookLikes.exe
+D:\Coding Work\FacebookLikes\FacebookLikes\bin\Debug\netcoreapp3.1\FacebookLikes.deps.json
+D:\Coding Work\FacebookLikes\FacebookLikes\bin\Debug\netcoreapp3.1\FacebookLikes.runtimeconfig.json
+D:\Coding Work\FacebookLikes\FacebookLikes\bin\Debug\netcoreapp3.1\FacebookLikes.runtimeconfig.dev.json
+D:\Coding Work\FacebookLikes\FacebookLikes\bin\Debug\netcoreapp3.1\FacebookLikes.dll
+D:\Coding Work\FacebookLikes\FacebookLikes\bin\Debug\netcoreapp3.1\FacebookLikes.pdb
+D:\Coding Work\FacebookLikes\FacebookLikes\obj\Debug\netcoreapp3.1\FacebookLikes.csprojAssemblyReference.cache
+D:\Coding Work\FacebookLikes\FacebookLikes\obj\Debug\netcoreapp3.1\FacebookLikes.AssemblyInfoInputs.cache
+D:\Coding Work\FacebookLikes\FacebookLikes\obj\Debug\netcoreapp3.1\FacebookLikes.AssemblyInfo.cs
+D:\Coding Work\FacebookLikes\FacebookLikes\obj\Debug\netcoreapp3.1\FacebookLikes.csproj.CoreCompileInputs.cache
+D:\Coding Work\FacebookLikes\FacebookLikes\obj\Debug\netcoreapp3.1\FacebookLikes.dll
+D:\Coding Work\FacebookLikes\FacebookLikes\obj\Debug\netcoreapp3.1\FacebookLikes.pdb
+D:\Coding Work\FacebookLikes\FacebookLikes\obj\Debug\netcoreapp3.1\FacebookLikes.genruntimeconfig.cache
